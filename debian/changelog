@@ -1,5 +1,20 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-moby-locker (1.0.1-3) unstable; urgency=medium
 
-  * Initial release
+  [ Debian Janitor ]
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+  * Update standards version to 4.6.1, no changes needed.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Mon, 21 Nov 2022 11:58:57 +0000
+
+golang-github-moby-locker (1.0.1-2) unstable; urgency=medium
+
+  * Source-only upload for testing migration.
+
+ -- Shengjing Zhu <zhsj@debian.org>  Wed, 16 Jun 2021 22:57:23 +0800
+
+golang-github-moby-locker (1.0.1-1) unstable; urgency=medium
+
+  * Initial release.
+
+ -- Shengjing Zhu <zhsj@debian.org>  Wed, 21 Apr 2021 01:21:20 +0800
